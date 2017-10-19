@@ -6,10 +6,12 @@
 The description for my project is found [[https://de.wikiversity.org/wiki/Wikiversity:Fellow-Programm_Freies_Wissen/Einreichungen/Open_computational_research_study][here]]. 
 
 ** Notes
-
+The following interesting links were shared with me by [[https://github.com/jibe-b][@jibe-b]]
+ - Grüning et al. (2017) /Practical computational reproducibility in the life sciences/  [[https://www.biorxiv.org/content/early/2017/10/11/200683.full.pdf%2Bhtml][biorxiv.org]]
+ - ICLR 2018 Reproducibility Challenge [[http://www.cs.mcgill.ca/~jpineau/ICLR2018-ReproducibilityChallenge.html][cs.mcgill.ca]]
+ - Reproducibility Clearinghouse [[https://meta-lab.co/rc/][meta-lab.co/rc]]
 
 ** TODOs
-*** 
 
-** Updates
-*** 
+
+** Updates 
