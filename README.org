@@ -13,5 +13,15 @@ The following interesting links were shared with me by [[https://github.com/jibe
 
 ** TODOs
 
+*** collect resources and information for technical implementation of computational research study
+- examples of studies who have used Docker/Singularity to publish their computational results?
+- studies who have published using Sumatra or other electronic lab notebooks?
+
+*** [November] write a short tech report outlining the challenges and proposed implementations in the study
+
+Draft [[file:tech_report.org][tech_report.org]]
+
+- collect and process feedback
+ 
 
 ** Updates 
