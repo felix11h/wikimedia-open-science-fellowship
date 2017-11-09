@@ -25,3 +25,6 @@ Draft [[file:tech_report.org][tech_report.org]]
  
 
 ** Updates 
+
+*** talk at Google Munich
+I'm giving a short presentation on Sumatra and my plans for the fellowship at the Google Summer of Code Munich Meetup on 14.11.2017. The slides for my talk can be found [[https://github.com/Felix11H/GSoC14_munich_slides][here]].
