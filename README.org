@@ -26,5 +26,8 @@ Draft [[file:tech_report.org][tech_report.org]]
 
 ** Updates 
 
+*** Docker image for Sumatra 0.5.2
+the research I plan to publish was recorded in a Sumatra 0.5.2 lab notebook. I built a Docker image ([[https://hub.docker.com/r/felix11h/docker-sumatra-0.5.2/][Docker Hub]], [[https://github.com/Felix11H/docker-sumatra-0.5.2][GitHub repository]]) that contains Sumatra 0.5.2. With this my results are accessible. I posted on the Sumatra-user mailing list to share the process of creating the image.
+
 *** talk at Google Munich
 I'm giving a short presentation on Sumatra and my plans for the fellowship at the Google Summer of Code Munich Meetup on 14.11.2017. The slides for my talk can be found [[https://github.com/Felix11H/GSoC14_munich_slides][here]].
