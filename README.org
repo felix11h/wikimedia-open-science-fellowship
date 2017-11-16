@@ -7,11 +7,25 @@ The description for my project is found [[https://de.wikiversity.org/wiki/Wikive
 
 ** Notes
 The following interesting links were shared with me by [[https://github.com/jibe-b][@jibe-b]]
- - Grüning et al. (2017) /Practical computational reproducibility in the life sciences/  [[https://www.biorxiv.org/content/early/2017/10/11/200683.full.pdf%2Bhtml][biorxiv.org]]
- - ICLR 2018 Reproducibility Challenge [[http://www.cs.mcgill.ca/~jpineau/ICLR2018-ReproducibilityChallenge.html][cs.mcgill.ca]]
- - Reproducibility Clearinghouse [[https://meta-lab.co/rc/][meta-lab.co/rc]]
 
-** TODOs
+*** articles
+- Grüning et al. (2017) /Practical computational reproducibility in the life sciences/  [[https://www.biorxiv.org/content/early/2017/10/11/200683.full.pdf%2Bhtml][biorxiv.org]]
+
+*** events
+- ICLR 2018 Reproducibility Challenge [[http://www.cs.mcgill.ca/~jpineau/ICLR2018-ReproducibilityChallenge.html][cs.mcgill.ca]]
+- Reproducibility Clearinghouse [[https://meta-lab.co/rc/][meta-lab.co/rc]]
+
+
+** Updates 
+
+*** Docker image for Sumatra 0.5.2
+the research I plan to publish was recorded in a Sumatra 0.5.2 lab notebook. I built a Docker image ([[https://hub.docker.com/r/felix11h/docker-sumatra-0.5.2/][Docker Hub]], [[https://github.com/Felix11H/docker-sumatra-0.5.2][GitHub repository]]) that contains Sumatra 0.5.2. With this my results are accessible. I posted on the Sumatra-user mailing list to share the process of creating the image.
+
+*** talk at Google Munich
+I'm giving a short presentation on Sumatra and my plans for the fellowship at the Google Summer of Code Munich Meetup on 14.11.2017. The slides for my talk can be found [[https://github.com/Felix11H/GSoC14_munich_slides][here]].
+
+
+** Tasks
 
 *** collect resources and information for technical implementation of computational research study
 - examples of studies who have used Docker/Singularity to publish their computational results?
@@ -25,11 +39,3 @@ Draft [[file:tech_report.org][tech_report.org]]
 
 *** [December] Can I build the Docker container using Conda installations? 
 this a point made by Grüning et al. (2017). See also [[file:tech_report.org][tech_report.org]]. Current Docker container: [[https://hub.docker.com/r/felix11h/aniso_netw_env/][hub.docker.com]]
-
-** Updates 
-
-*** Docker image for Sumatra 0.5.2
-the research I plan to publish was recorded in a Sumatra 0.5.2 lab notebook. I built a Docker image ([[https://hub.docker.com/r/felix11h/docker-sumatra-0.5.2/][Docker Hub]], [[https://github.com/Felix11H/docker-sumatra-0.5.2][GitHub repository]]) that contains Sumatra 0.5.2. With this my results are accessible. I posted on the Sumatra-user mailing list to share the process of creating the image.
-
-*** talk at Google Munich
-I'm giving a short presentation on Sumatra and my plans for the fellowship at the Google Summer of Code Munich Meetup on 14.11.2017. The slides for my talk can be found [[https://github.com/Felix11H/GSoC14_munich_slides][here]].
