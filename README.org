@@ -22,7 +22,9 @@ The following interesting links were shared with me by [[https://github.com/jibe
 Draft [[file:tech_report.org][tech_report.org]]
 
 - collect and process feedback
- 
+
+*** [December] Can I build the Docker container using Conda installations? 
+this a point made by Grüning et al. (2017). See also [[file:tech_report.org][tech_report.org]]. Current Docker container: [[https://hub.docker.com/r/felix11h/aniso_netw_env/][hub.docker.com]]
 
 ** Updates 
 
