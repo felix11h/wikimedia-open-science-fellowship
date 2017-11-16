@@ -27,7 +27,7 @@ I'm giving a short presentation on Sumatra and my plans for the fellowship at th
 
 ** Tasks
 
-*** collect resources and information for technical implementation of computational research study
+*** [November] collect resources and information for technical implementation of computational research study
 - examples of studies who have used Docker/Singularity to publish their computational results?
 - studies who have published using Sumatra or other electronic lab notebooks?
 
