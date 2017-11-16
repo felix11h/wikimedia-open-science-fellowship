@@ -1,5 +1,25 @@
 
 * challenges & problems to solve
 
+The following components are needed to ensure full reproducibility of a computational research study:
+
+1. fully documented data and code
+2. used software libraries
+3. full computational environment
+
+This raises the following questions:
+
+1. 
+
 
 * proposed solutions
+
+Grüning et al. (2017) makes the point of different levels of computational environment simulation.
+
+1. virtual environment with cross-platform package manager (Conda)
+2. software containers (Docker)
+3. hardware virtualization
+
+
+
+* examples & references
