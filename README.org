@@ -18,6 +18,14 @@ The following interesting links were shared with me by [[https://github.com/jibe
 
 ** Updates 
 
+*** Research on archiving of Docker images
+Docker images can be archived with the command
+: docker save felix11/my-image > my-image.tar
+and images can be restored from an archive with
+: docker load < my-image.tar
+Uploading the ~.tar~ archives allows for unique identification via a DOI. This [[https://www.software.ac.uk/blog/2016-09-12-reproducible-research-citing-your-execution-environment-using-docker-and-doi][article]] goes into some more detail.
+
+
 *** Docker image for Sumatra 0.5.2
 the research I plan to publish was recorded in a Sumatra 0.5.2 lab notebook. I built a Docker image ([[https://hub.docker.com/r/felix11h/docker-sumatra-0.5.2/][Docker Hub]], [[https://github.com/Felix11H/docker-sumatra-0.5.2][GitHub repository]]) that contains Sumatra 0.5.2. With this my results are accessible. I posted on the Sumatra-user mailing list to share the process of creating the image.
 
