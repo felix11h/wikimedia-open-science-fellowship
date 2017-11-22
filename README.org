@@ -18,6 +18,9 @@ The following interesting links were shared with me by [[https://github.com/jibe
 
 ** Updates 
 
+*** exploring Singularity
+I had a deeper look at [[http://singularity.lbl.gov/index.html][Singularity]] and built some containers from my Docker images. I've run into several problems that I haven't really been able to fix. For the current project, Singularity does not seem a good fit.
+
 *** research on archiving of Docker images
 Docker images can be archived with the command ~docker save felix11/my-image > my-image.tar~ and images can be restored from an archive with ~docker load < my-image.tar~. Uploading the ~.tar~ archives allows for unique identification via a DOI. This [[https://www.software.ac.uk/blog/2016-09-12-reproducible-research-citing-your-execution-environment-using-docker-and-doi][article]] goes into some more detail.
 
