@@ -3,8 +3,8 @@
 
 *Contact* I keep this notes openly in the hope to get feedback on my project. Please consider creating issues for this repository, but you can also contact me [[http://felix11h.github.io/][directly]]. I would love to hear from you. Thank you for your interest and input!
 
-** Resources 
-The description for my project is found [[https://de.wikiversity.org/wiki/Wikiversity:Fellow-Programm_Freies_Wissen/Einreichungen/Open_computational_research_study][here]]. 
+** Project description
+I want to create and publish a fully open computational research study. Read a more detailed description of the project [[https://de.wikiversity.org/wiki/Wikiversity:Fellow-Programm_Freies_Wissen/Einreichungen/Open_computational_research_study][here]]. 
 
 ** Notes
 The following interesting links were shared with me by [[https://github.com/jibe-b][@jibe-b]]
