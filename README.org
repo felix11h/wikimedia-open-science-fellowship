@@ -35,10 +35,9 @@ Here I'm collecting all sorts of resources relevant to my project. Some of those
 
 **** research articles that include a Docker environment
 - Bremges et al. (2015) /Deeply sequenced metagenome and metatranscriptome of a biogas-producing microbial community from an agricultural production-scale biogas plant/ [[https://gigascience.biomedcentral.com/articles/10.1186/s13742-015-0073-6][gigascience.biomedcentral.com]]
-  : Dockerfile and GitHub repository included. Link to 
-  : Docker Hub seems already deprecated. Did not archive 
-  : Docker image or GitHub repository. Good: Comment on 
-  : the resources necessary to complete all computations
+  #+BEGIN_QUOTE 
+  Dockerfile and GitHub repository included. Link to Docker Hub  seems already deprecated. Did not archive Docker image or GitHub repository. *Good*: Comment on the resources necessary to complete all computations
+  #+END_QUOTE
 
 **** events
 - ICLR 2018 Reproducibility Challenge [[http://www.cs.mcgill.ca/~jpineau/ICLR2018-ReproducibilityChallenge.html][cs.mcgill.ca]]
