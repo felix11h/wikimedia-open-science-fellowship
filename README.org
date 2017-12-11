@@ -6,17 +6,6 @@
 ** Project description
 I want to create and publish a fully open computational research study. Read a more detailed description of the project [[https://de.wikiversity.org/wiki/Wikiversity:Fellow-Programm_Freies_Wissen/Einreichungen/Open_computational_research_study][here]]. 
 
-** Notes
-The following interesting links were shared with me by [[https://github.com/jibe-b][@jibe-b]]
-
-*** articles
-- Grüning et al. (2017) /Practical computational reproducibility in the life sciences/  [[https://www.biorxiv.org/content/early/2017/10/11/200683.full.pdf%2Bhtml][biorxiv.org]]
-
-*** events
-- ICLR 2018 Reproducibility Challenge [[http://www.cs.mcgill.ca/~jpineau/ICLR2018-ReproducibilityChallenge.html][cs.mcgill.ca]]
-- Reproducibility Clearinghouse [[https://meta-lab.co/rc/][meta-lab.co/rc]]
-
-
 ** Updates 
 
 *** exploring Singularity
@@ -30,6 +19,21 @@ the research I plan to publish was recorded in a Sumatra 0.5.2 lab notebook. I b
 
 *** talk at Google Munich
 I'm giving a short presentation on Sumatra and my plans for the fellowship at the Google Summer of Code Munich Meetup on 14.11.2017. The slides for my talk can be found [[https://github.com/Felix11H/GSoC14_munich_slides][here]].
+
+
+** Notes & Resources
+The following interesting links were shared with me by [[https://github.com/jibe-b][@jibe-b]]
+
+*** articles
+- Grüning et al. (2017) /Practical computational reproducibility in the life sciences/  [[https://www.biorxiv.org/content/early/2017/10/11/200683.full.pdf%2Bhtml][biorxiv.org]] 
+  #+BEGIN_SRC 
+  Makes the point of reproducibility on multiple scales, go from Conda -> Docker -> full virtual machine
+  #+END_SRC
+- 
+
+*** events
+- ICLR 2018 Reproducibility Challenge [[http://www.cs.mcgill.ca/~jpineau/ICLR2018-ReproducibilityChallenge.html][cs.mcgill.ca]]
+- Reproducibility Clearinghouse [[https://meta-lab.co/rc/][meta-lab.co/rc]]
 
 
 ** Tasks
