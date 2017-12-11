@@ -1,6 +1,7 @@
+
 * Wikimedia Open Science Fellowship 17/18
 
-*Contact* You can create issues for this repository, but you can also contact me [[http://felix11h.github.io/][directly]]. I would be very grateful for any type of input!
+*Contact* I keep this notes openly in the hope to get feedback on my project. Please consider creating issues for this repository, but you can also contact me [[http://felix11h.github.io/][directly]]. I would love to hear from you. Thank you for your interest and input!
 
 ** Resources 
 The description for my project is found [[https://de.wikiversity.org/wiki/Wikiversity:Fellow-Programm_Freies_Wissen/Einreichungen/Open_computational_research_study][here]]. 
