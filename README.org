@@ -25,11 +25,20 @@ I'm giving a short presentation on Sumatra and my plans for the fellowship at th
 
 Here I'm collecting all sorts of resources relevant to my project. Some of those links were pointed out to me by [[https://github.com/jibe-b][@jibe-b]]. Many thanks for this!
 
-**** articles
+**** articles on Docker & reproducibility
 - Grüning et al. (2017) /Practical computational reproducibility in the life sciences/  [[https://www.biorxiv.org/content/early/2017/10/11/200683.full.pdf%2Bhtml][biorxiv.org]] 
   : Makes the point of reproducibility on multiple scales.
   : go from Conda -> Docker -> full virtual machine
 - Haines at el. (2016) /Reproducible Research: Citing your execution environment using Docker and a DOI/ [[https://www.software.ac.uk/blog/2016-09-12-reproducible-research-citing-your-execution-environment-using-docker-and-doi][software.ac.uk]]
+  : use "docker save felix11/my-image > my-image.tar" and 
+  : and upload to Zenodo
+
+**** research articles that include a Docker environment
+- Bremges et al. (2015) /Deeply sequenced metagenome and metatranscriptome of a biogas-producing microbial community from an agricultural production-scale biogas plant/ [[https://gigascience.biomedcentral.com/articles/10.1186/s13742-015-0073-6][gigascience.biomedcentral.com]]
+  : Dockerfile and GitHub repository included. Link to 
+  : Docker Hub seems already deprecated. Did not archive 
+  : Docker image or GitHub repository. Good: Comment on 
+  : the resources necessary to complete all computations
 
 **** events
 - ICLR 2018 Reproducibility Challenge [[http://www.cs.mcgill.ca/~jpineau/ICLR2018-ReproducibilityChallenge.html][cs.mcgill.ca]]
