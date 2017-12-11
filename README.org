@@ -12,7 +12,7 @@ I want to create and publish a fully open computational research study. Read a m
 I had a deeper look at [[http://singularity.lbl.gov/index.html][Singularity]] and built some containers from my Docker images. I've run into several problems that I haven't really been able to fix. For the current project, Singularity does not seem a good fit.
 
 **** research on archiving of Docker images
-Docker images can be archived with the command ~docker save felix11/my-image > my-image.tar~ and images can be restored from an archive with ~docker load < my-image.tar~. Uploading the ~.tar~ archives allows for unique identification via a DOI. This [[https://www.software.ac.uk/blog/2016-09-12-reproducible-research-citing-your-execution-environment-using-docker-and-doi][article]] goes into some more detail.
+Docker images can be archived with the command ~docker save felix11h/my-image > my-image.tar~ and images can be restored from an archive with ~docker load < my-image.tar~. Uploading the ~.tar~ archives allows for unique identification via a DOI. This [[https://www.software.ac.uk/blog/2016-09-12-reproducible-research-citing-your-execution-environment-using-docker-and-doi][article]] goes into some more detail.
 
 **** Docker image for Sumatra 0.5.2
 the research I plan to publish was recorded in a Sumatra 0.5.2 lab notebook. I built a Docker image ([[https://hub.docker.com/r/felix11h/docker-sumatra-0.5.2/][Docker Hub]], [[https://github.com/Felix11H/docker-sumatra-0.5.2][GitHub repository]]) that contains Sumatra 0.5.2. With this my results are accessible. I posted on the Sumatra-user mailing list to share the process of creating the image.
@@ -30,14 +30,15 @@ Here I'm collecting all sorts of resources relevant to my project. Some of those
   : Makes the point of reproducibility on multiple scales.
   : go from Conda -> Docker -> full virtual machine
 - Haines at el. (2016) /Reproducible Research: Citing your execution environment using Docker and a DOI/ [[https://www.software.ac.uk/blog/2016-09-12-reproducible-research-citing-your-execution-environment-using-docker-and-doi][software.ac.uk]]
-  : use "docker save felix11/my-image > my-image.tar" and 
+  : use "docker save felix11h/my-image > my-image.tar" and 
   : and upload to Zenodo
 
 **** research articles that include a Docker environment
 - Bremges et al. (2015) /Deeply sequenced metagenome and metatranscriptome of a biogas-producing microbial community from an agricultural production-scale biogas plant/ [[https://gigascience.biomedcentral.com/articles/10.1186/s13742-015-0073-6][gigascience.biomedcentral.com]] Code: [[https://github.com/metagenomics/2015-biogas-cebitec][github.com]]
   : Dockerfile and GitHub repository included. Link to Docker Hub
   : seems already deprecated. Did not archive Docker image or 
-  : GitHub repository. Good: Comment on the resources necessary to : complete all computations
+  : GitHub repository. Good: Comment on the resources necessary to
+  : complete all computations
 - Clarkson et al. (2015) /The archaeology, chronology and stratigraphy of Madjedbebe (Malakunanja II): A site in northern Australia with early occupation/ [[https://www.sciencedirect.com/science/article/pii/S0047248415000846?via%253Dihub][sciencedirect.com]] Code: [[http://dx.doi.org/10.6084/m9.figshare.1297059][10.6084/m9.figshare.1297059]]
   : Only published Dockerfile, compiled image not part of figshare 
   : archive
