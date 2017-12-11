@@ -22,7 +22,8 @@ I'm giving a short presentation on Sumatra and my plans for the fellowship at th
 
 
 ** Notes & Resources
-The following interesting links were shared with me by [[https://github.com/jibe-b][@jibe-b]]
+
+Here I'm collecting all sorts of resources relevant to my project. Some of those links were pointed out to me by [[https://github.com/jibe-b][@jibe-b]]. Many thanks for this!
 
 **** articles
 - Grüning et al. (2017) /Practical computational reproducibility in the life sciences/  [[https://www.biorxiv.org/content/early/2017/10/11/200683.full.pdf%2Bhtml][biorxiv.org]] 
@@ -32,8 +33,7 @@ The following interesting links were shared with me by [[https://github.com/jibe
 
 **** events
 - ICLR 2018 Reproducibility Challenge [[http://www.cs.mcgill.ca/~jpineau/ICLR2018-ReproducibilityChallenge.html][cs.mcgill.ca]]
-- Reproducibility Clearinghouse [[https://meta-lab.co/rc/][meta-lab.co/rc]]
-
+- Reproducibility Clearinghouse [[https://meta-lab.co/rc/][meta-lab.co/rc]] 
 
 ** Tasks
 
