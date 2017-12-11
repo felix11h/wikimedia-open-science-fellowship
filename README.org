@@ -24,15 +24,13 @@ I'm giving a short presentation on Sumatra and my plans for the fellowship at th
 ** Notes & Resources
 The following interesting links were shared with me by [[https://github.com/jibe-b][@jibe-b]]
 
-*articles*
+**** articles
 - Grüning et al. (2017) /Practical computational reproducibility in the life sciences/  [[https://www.biorxiv.org/content/early/2017/10/11/200683.full.pdf%2Bhtml][biorxiv.org]] 
-  #+BEGIN_SRC 
-  Makes the point of reproducibility on multiple scales.
-  go from Conda -> Docker -> full virtual machine
-  #+END_SRC
-- 
+  : Makes the point of reproducibility on multiple scales.
+  : go from Conda -> Docker -> full virtual machine
+- Haines at el. (2016) /Reproducible Research: Citing your execution environment using Docker and a DOI/ [[https://www.software.ac.uk/blog/2016-09-12-reproducible-research-citing-your-execution-environment-using-docker-and-doi][software.ac.uk]]
 
-*events*
+**** events
 - ICLR 2018 Reproducibility Challenge [[http://www.cs.mcgill.ca/~jpineau/ICLR2018-ReproducibilityChallenge.html][cs.mcgill.ca]]
 - Reproducibility Clearinghouse [[https://meta-lab.co/rc/][meta-lab.co/rc]]
 
