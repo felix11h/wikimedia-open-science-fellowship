@@ -8,6 +8,8 @@ I want to create and publish a fully open computational research study. Read a m
 
 ** Updates 
 
+**** 
+
 **** exploring Singularity
 I had a deeper look at [[http://singularity.lbl.gov/index.html][Singularity]] and built some containers from my Docker images. I've run into several problems that I haven't really been able to fix. For the current project, Singularity does not seem a good fit.
 
@@ -48,6 +50,9 @@ Here I'm collecting all sorts of resources relevant to my project. Some of those
 - Reproducibility Clearinghouse [[https://meta-lab.co/rc/][meta-lab.co/rc]] 
 
 ** Tasks
+
+**** [January] complete the midterm report
+Template at [[https://de.wikiversity.org/wiki/Wikiversity:Fellow-Programm_Freies_Wissen/Zwischenbericht][de.wikiversity.org]]
 
 **** [November] collect resources and information for technical implementation of computational research study
 - examples of studies who have used Docker/Singularity to publish their computational results?
