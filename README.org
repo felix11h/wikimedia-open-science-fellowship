@@ -11,8 +11,8 @@ I want to create and publish a fully open computational research study. Read a m
 **** reproducing Docker images
 I was interested how well the building of Docker images works some time after they have been written. In this [[https://github.com/Felix11H/docker-reproduction-of-published-images][repository]] and this connected [[https://hub.docker.com/r/felix11h/docker-reproduction-of-published-images/][Docker Hub entry]], I tested the Docker images from the two research publications I'm aware of that publish a Dockerfile. The results are:
 #+BEGIN_QUOTE
- - build successful: 1
- - build failed: 1
+ build successful: 1
+ build failed: 1
 #+END_QUOTE
 
 Personally, I think it's not a question of "if" but "when" a Dockerfile won't build anymore due to missing dependencies. It's good to share the Dockerfile and encourage people to compile on their own (trust), but Docker images most also be archived!
