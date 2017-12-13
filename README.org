@@ -34,6 +34,14 @@ Here I'm collecting all sorts of resources relevant to my project. Some of those
 - Haines at el. (2016) /Reproducible Research: Citing your execution environment using Docker and a DOI/ [[https://www.software.ac.uk/blog/2016-09-12-reproducible-research-citing-your-execution-environment-using-docker-and-doi][software.ac.uk]]
   : use "docker save felix11h/my-image > my-image.tar" and 
   : and upload to Zenodo
+- Ghosh et al. (2017) /A very simple, re-executable neuroimaging publication/ doi: [[http://dx.doi.org/10.12688/f1000research.10783.2][10.12688/f1000research.10783.2]]
+  : proposed structure: 1) data file, 2) workflow file, 
+  : 3) execution environment specification, 4) results
+  :
+  : >> Great result: When Docker is used, they observed NO
+  : >> difference in results when anaylsis is run on different 
+  : >> platform (Linux vs. Mac environment)
+
 
 **** research articles that include a Docker environment
 - Bremges et al. (2015) /Deeply sequenced metagenome and metatranscriptome of a biogas-producing microbial community from an agricultural production-scale biogas plant/ [[https://gigascience.biomedcentral.com/articles/10.1186/s13742-015-0073-6][gigascience.biomedcentral.com]] Code: [[https://github.com/metagenomics/2015-biogas-cebitec][github.com]]
@@ -59,7 +67,6 @@ Template at [[https://de.wikiversity.org/wiki/Wikiversity:Fellow-Programm_Freies
 - studies who have published using Sumatra or other electronic lab notebooks?
 
 **** [November] write a short tech report outlining the challenges and proposed implementations in the study
-
 Draft [[file:tech_report.org][tech_report.org]]
 
 - collect and process feedback
