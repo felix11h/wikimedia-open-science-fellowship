@@ -8,7 +8,13 @@ I want to create and publish a fully open computational research study. Read a m
 
 ** Updates 
 
-**** 
+**** reproducing Docker images
+I was interested how well the building of Docker images works some time after they have been written. In this [[https://github.com/Felix11H/docker-reproduction-of-published-images][repository]] and this connected [[https://hub.docker.com/r/felix11h/docker-reproduction-of-published-images/][Docker Hub entry]], I tested the Docker images from the two research publications I'm aware of that publish a Dockerfile. The results are:
+
+ - build successful: 1
+ - build failed: 1
+
+Personally, I think it's not a question of "if" but "when" a Dockerfile won't build anymore due to missing dependencies. It's good to share the Dockerfile and encourage people to compile on their own (trust), but Docker images most also be archived!
 
 **** exploring Singularity
 I had a deeper look at [[http://singularity.lbl.gov/index.html][Singularity]] and built some containers from my Docker images. I've run into several problems that I haven't really been able to fix. For the current project, Singularity does not seem a good fit.
@@ -37,7 +43,7 @@ Here I'm collecting all sorts of resources relevant to my project. Some of those
 - Ghosh et al. (2017) /A very simple, re-executable neuroimaging publication/ doi: [[http://dx.doi.org/10.12688/f1000research.10783.2][10.12688/f1000research.10783.2]]
   : proposed structure: 1) data file, 2) workflow file, 
   : 3) execution environment specification, 4) results
-  :
+  : ---
   : >> Great result: When Docker is used, they observed NO
   : >> difference in results when anaylsis is run on different 
   : >> platform (Linux vs. Mac environment)
