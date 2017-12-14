@@ -22,4 +22,14 @@ Grüning et al. (2017) makes the point of different levels of computational envi
 
 
 
+* Docker container sharing
+
+Automated build on Docker Hub using tags. Docker image archived on Zenodo for long term storage.
+
+: docker save felix11h/docker-img > docker-img.tar
+: docker load < docker-img.tar
+
+from [[https://www.software.ac.uk/blog/2016-09-12-reproducible-research-citing-your-execution-environment-using-docker-and-doi][software.ac.uk]].
+
+
 * examples & references
