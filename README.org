@@ -11,6 +11,9 @@ I want to create and publish a fully open computational research study. Read a m
 # **** a proof-of-concept for my publication
 # I've started developing a proof-of-concept 
 
+**** Proof of concept for an Open Computational Research Study
+In a [[http://felix11h.github.io/blog/open-comp-rsc-concept][blog post]] I'm describing how I plan to publish my computational research to ensure it's accessible and reproducible. For this I have created an [[https://doi.org/10.5281/zenodo.1145677][example study]] that demonstrates how the fully published study can be interacted with in concept.
+
 **** Docker image for the project
 I've written, compiled and tested the Docker image for my computational project. Based on Ubuntu 16.04 the image includes Python with the standard scientific libraries, TeX Live, Sumatra and Graph tool. The image is found on [[https://hub.docker.com/r/felix11h/docker-aniso-netw-dev/][Docker Hub]].
 
