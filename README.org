@@ -11,6 +11,17 @@ I want to create and publish a fully open computational research study. Read a m
 # **** a proof-of-concept for my publication
 # I've started developing a proof-of-concept 
 
+**** Abstract for Brain Twitter Conference #brainTC
+[[https://github.com/VTeckentrup][@VTeckentrup]] suggested to submit to present our projects at [[https://brain.tc/][#brainTC]], the Brain Twitter Conference. I submitted the following abstract
+
+*Title*: Making computational neuroscience research reproducible - A Docker based approach
+
+*Abstract*: Results in computational neuroscience research are often the product of complex numerical simulations. The ability to successfully reproduce these results  -- a core requirement that all of research should satisfy -- not only depends on the availability of the research code: In many cases the computational environment consists of a highly specialized toolset that may be difficult or even impossible to replicate. Here I show how Docker, an operating-system-level virtualization tool, can be employed to package the computational environment of a study to make it accessible to others. To demonstrate this concept, I developed a prototype that includes (1) example computations, (2) generated data, (3) documentation in form of an electronic lab notebook and (4) the full computational environment. Published in this form, reproduction of the computational results becomes easily possible, independent of the platform and without the need to meet any dependencies other than Docker. This approach offers a promising perspective for computational neuroscience research as an increased accessibility of the results and the computations that generate them will benefit the transparency and, ultimately, the quality of the research output.
+
+*Keywords*: reproducibility, open science, docker
+
+The conference will take place on March 8, 2018. If my talk gets accepted I will update here on my assigned time slot. 
+
 **** Proof of concept for an Open Computational Research Study
 In a [[http://felix11h.github.io/blog/open-comp-rsc-concept][blog post]] I'm describing how I plan to publish my computational research to ensure it's accessible and reproducible. For this I have created an [[https://doi.org/10.5281/zenodo.1145677][example study]] that demonstrates how the fully published study can be interacted with in concept.
 
