@@ -11,6 +11,9 @@ I want to create and publish a fully open computational research study. Read a m
 # **** a proof-of-concept for my publication
 # I've started developing a proof-of-concept 
 
+**** Twitter talk and blog post improvements
+I'll be working on this in coming weeks. Please look out for an updated version of the blog and a draft of the #brainTC talk.
+
 **** Abstract for Brain Twitter Conference #brainTC
 [[https://github.com/VTeckentrup][@VTeckentrup]] suggested to submit to present our projects at [[https://brain.tc/][#brainTC]], the Brain Twitter Conference. I submitted the following abstract
 
@@ -55,6 +58,14 @@ I'm giving a short presentation on Sumatra and my plans for the fellowship at th
 Here I'm collecting all sorts of resources relevant to my project. Some of those links were pointed out to me by [[https://github.com/jibe-b][@jibe-b]]. Many thanks for this!
 
 **** articles on Docker & reproducibility
+- C. Titus Brown (2017) /How I learned to stop worrying and love the coming archivability crisis in scientific software/ [[http://ivory.idyll.org/blog/2017-pof-software-archivability.html][ivory.idyll.org]]
+  : Docker not necessarily suitable longterm archiving of 
+  : scientific software. Should acknowledge that software 
+  : has a half life and focus on "inspectability" after 
+  : maintaining repeatability can no longer be justified.
+- Bruno Vieira (2017) /A truly reproducible scientific paper?/
+  : Use pip freeze or npm shrinkwrap, nix package manager.
+  : Similar point to Grüning's first tier of reproducbility
 - Grüning et al. (2017) /Practical computational reproducibility in the life sciences/  [[https://www.biorxiv.org/content/early/2017/10/11/200683.full.pdf%2Bhtml][biorxiv.org]] 
   : Makes the point of reproducibility on multiple scales.
   : go from Conda -> Docker -> full virtual machine
