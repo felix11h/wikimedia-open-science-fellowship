@@ -11,6 +11,9 @@ I want to create and publish a fully open computational research study. Read a m
 # **** a proof-of-concept for my publication
 # I've started developing a proof-of-concept 
 
+**** Docker image for project [Pt. 2]
+I've published the final(?) version of the image I will use for this study. It's hosted on [[https://hub.docker.com/r/felix11h/aniso_netw_env/][Docker Hub]].
+
 **** #brainTC Twitter talk
 My #brainTC Twitter is available [[https://twitter.com/RealBrainTC/status/971819097053941760][here]]. The updated blog post is [[http://felix11h.github.io/blog/open-comp-rsc-concept][here]]. To create the animations, I used [[https://github.com/phw/peek][peek]] to record GIFs from my screen and annotated using ImageMagick with code as I published [[https://gist.github.com/Felix11H/4fffc3338a70b900bc3a8d9964d44f2e][here]].
 
