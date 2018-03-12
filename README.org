@@ -97,6 +97,10 @@ Here I'm collecting all sorts of resources relevant to my project. Some of those
   : Only published Dockerfile, compiled image not part of figshare 
   : archive
 
+
+**** resources on Singularity
+- Pablo Escobar "Working with Singularity" slides [[https://pescobar.github.io/singularity-slides/#1][pescobar.github.io]]
+
 **** events
 - ICLR 2018 Reproducibility Challenge [[http://www.cs.mcgill.ca/~jpineau/ICLR2018-ReproducibilityChallenge.html][cs.mcgill.ca]]
 - Reproducibility Clearinghouse [[https://meta-lab.co/rc/][meta-lab.co/rc]] 
