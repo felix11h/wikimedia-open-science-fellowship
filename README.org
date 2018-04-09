@@ -11,6 +11,9 @@ I want to create and publish a fully open computational research study. Read a m
 # **** a proof-of-concept for my publication
 # I've started developing a proof-of-concept 
 
+**** talk at Bordeaux Neurocampus 25.04.2018
+I'll give a talk at the [[http://www.bordeaux-neurocampus.fr/en/index.html][Bordeaux Neurocampus]] on reproducibility on computational research and my fellowship project. This event is part of the retreat of my [[http://brain.mpg.de/graduate-studies.html][PhD program]] to Bordeaux. The talk should be open to the public and I will post information about it here. Slides will be posted here as well.
+
 **** Docker image for project [Pt. 2]
 I've published the final(?) version of the image I will use for this study. It's hosted on [[https://hub.docker.com/r/felix11h/aniso_netw_env/][Docker Hub]].
 
