@@ -12,7 +12,7 @@ I want to create and publish a fully open computational research study. Read a m
 # I've started developing a proof-of-concept 
 
 **** future work - completely open
-I'll not achieve all my goals within the term of the fellowship. I have decided to continue to work fully openly with the unchanged goals of publishing my [[https://github.com/anisotropic-connectivity-local-circuits][computational research project]] openly and reproducible. Additionally, I want to report on the technical solutions ([[http://felix11h.github.io/blog/open-comp-rsc-concept][1]],[[https://github.com/popperized/open-comp-rsc-popper][2]]) found (Docker, Sumatra, Popper) in a separate format.
+I'll not achieve all my goals within the term of the fellowship. I have decided to continue to work fully openly with the unchanged goals of publishing my [[https://github.com/anisotropic-connectivity-local-circuits][computational research project]] openly and reproducible. Additionally, I want to report on the [[https://github.com/open-comp-rsc][technical solutions]] (also [[http://felix11h.github.io/blog/open-comp-rsc-concept][1]],[[https://github.com/popperized/open-comp-rsc-popper][2]]) found (Docker, Sumatra, Popper) in a separate format.
 
 **** eLife Innovation Sprint 10-11.05.2018
 I'll be participating in the [[https://elifesciences.org/events/c40798c3/elife-innovation-sprint-2018?utm_source%3Devent&utm_medium%3Dwebpage&utm_campaign%3DInnovSprint][eLife Innovation Sprint]] in Cambridge in May. I will report more on the project/prototype I'll be working on here.
